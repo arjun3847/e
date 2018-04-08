@@ -1,0 +1,33 @@
+body{
+
+	margin-bottom: 80px;
+}
+
+
+.page-header
+
+{
+	margin-top: 0px;
+
+}
+
+.panel-body
+{
+
+	padding-top: 0px;
+}
+
+.featuredImg
+{
+
+	margin-bottom:15px;
+}
+
+.sale {
+  text-align: center;
+  border-bottom: 1px solid #e5e5e5;
+}
+.sale .btn {
+  padding: 14px 24px;
+  font-size: 21px;
+}
